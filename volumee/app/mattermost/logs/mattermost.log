@@ -1,0 +1,693 @@
+{"timestamp":"2022-10-07 14:11:05.446 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:264","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 14:11:05.449 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:11:05.454 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:11:15.454 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:11:15.456 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:11:25.464 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:11:25.466 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:11:35.474 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:11:35.475 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:11:45.481 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:11:45.482 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:11:55.490 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:11:55.492 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:12:05.492 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:12:05.494 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:12:15.502 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:12:15.504 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:12:25.511 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:12:25.512 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:12:35.512 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:12:35.514 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:12:45.522 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:12:45.524 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:12:55.524 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:12:55.525 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:13:56.385 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:264","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 14:13:56.386 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:13:56.389 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:14:06.395 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:14:06.397 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:14:16.403 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:14:16.405 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:14:26.413 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:14:26.416 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:14:36.417 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:14:36.418 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:14:46.424 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:14:46.426 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:15:35.623 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:264","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 14:15:35.626 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:15:35.629 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:15:45.636 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:15:45.637 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:15:55.643 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:15:55.644 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 127.0.0.1:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:51:19.518 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 14:51:19.518 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:51:19.524 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:51:29.528 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:51:29.535 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:51:39.537 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:51:39.541 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:51:49.546 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:51:49.550 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:51:59.550 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:51:59.554 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:52:09.555 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:52:09.558 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:52:19.564 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:52:19.568 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:52:29.574 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:52:29.578 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:52:39.584 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:52:39.588 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:52:49.594 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:52:49.597 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:52:59.603 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:52:59.607 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:53:09.613 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:53:09.616 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:53:19.619 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:53:19.624 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:53:29.624 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:53:29.628 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:53:39.633 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:53:39.636 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:53:49.642 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:53:49.646 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:53:59.646 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:53:59.649 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:54:09.650 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:54:09.654 Z","level":"fatal","msg":"Failed to ping DB, server will exit.","caller":"sqlstore/store.go:236","error":"pq: database \"mattermostdb\" does not exist"}
+{"timestamp":"2022-10-07 14:54:12.204 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 14:54:12.204 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:54:12.209 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:54:22.213 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:54:22.217 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:54:32.223 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:54:32.229 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:54:42.230 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:54:42.234 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:54:52.234 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:54:52.238 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:55:02.238 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:55:02.243 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:55:12.243 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:55:12.247 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:55:22.253 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:55:22.256 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:55:32.257 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:55:32.261 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:58:55.240 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 14:58:55.240 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:58:55.243 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:59:05.247 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:59:05.248 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:59:15.256 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:59:15.258 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:59:25.260 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:59:25.262 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:59:35.262 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:59:35.264 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:59:45.266 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:59:45.268 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 14:59:55.276 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 14:59:55.278 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:00:05.279 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:00:05.280 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:00:15.281 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:00:15.283 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:00:25.287 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:00:25.289 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:00:35.291 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:00:35.293 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:00:45.301 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:00:45.303 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:00:55.305 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:00:55.314 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:01:05.315 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:01:05.317 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:01:15.319 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:01:15.321 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:01:25.327 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:01:25.329 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:01:35.332 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:01:35.333 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.25.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:02:57.122 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 15:02:57.122 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:02:57.127 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:03:07.132 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:03:07.134 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:03:17.142 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:03:17.144 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:03:27.152 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:03:27.154 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:03:37.162 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:03:37.163 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:03:47.164 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:03:47.166 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:03:57.174 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:03:57.176 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:04:07.184 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:04:07.185 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:04:17.193 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:04:17.195 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:04:27.203 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:04:27.205 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:04:37.213 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:04:37.215 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:04:47.223 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:04:47.224 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:04:57.224 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:04:57.230 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:05:07.233 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:05:07.236 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:05:17.239 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:05:17.241 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:05:27.251 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:05:27.253 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:05:37.261 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:05:37.263 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:05:47.271 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:05:47.273 Z","level":"fatal","msg":"Failed to ping DB, server will exit.","caller":"sqlstore/store.go:236","error":"dial tcp 172.26.0.2:9876: connect: connection refused"}
+{"timestamp":"2022-10-07 15:05:50.688 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 15:05:50.688 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:05:50.693 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:06:00.698 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:06:00.700 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:06:10.708 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:06:10.710 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:06:20.711 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:06:20.713 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:06:30.721 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:06:30.724 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:06:40.731 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:06:40.732 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:06:50.734 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:06:50.735 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:07:00.738 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:07:00.740 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:07:10.748 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:07:10.750 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:07:20.758 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:07:20.760 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:07:30.768 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:07:30.769 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:07:40.778 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:07:40.779 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:07:50.782 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:07:50.784 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:08:00.784 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:08:00.786 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:08:10.787 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:08:10.789 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:08:20.791 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:08:20.792 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:08:30.801 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:08:30.803 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:08:40.803 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:08:40.805 Z","level":"fatal","msg":"Failed to ping DB, server will exit.","caller":"sqlstore/store.go:236","error":"dial tcp 172.26.0.2:9876: connect: connection refused"}
+{"timestamp":"2022-10-07 15:08:44.088 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 15:08:44.088 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:08:44.092 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:08:54.095 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:08:54.097 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:09:04.103 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:09:04.105 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:09:14.111 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:09:14.113 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:09:24.114 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:09:24.115 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:09:34.117 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:09:34.119 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:09:44.127 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:09:44.129 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:09:54.137 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:09:54.138 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:10:04.138 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:10:04.140 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:10:14.141 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:10:14.143 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:10:24.151 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:10:24.153 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:10:34.156 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:10:34.158 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:10:44.159 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:10:44.161 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:10:54.169 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:10:54.170 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:11:02.365 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 15:11:02.365 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:11:02.369 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:11:12.375 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:11:12.377 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:11:22.385 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:11:22.386 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:11:32.390 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:11:32.392 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:11:42.400 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:11:42.401 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:11:52.410 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:11:52.411 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.26.0.2:9876: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:18:07.093 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 15:18:07.093 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:18:07.101 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:18:17.102 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:18:17.108 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:18:27.108 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:18:27.116 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:18:37.117 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:18:37.122 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:18:47.123 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:18:47.129 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:18:57.130 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:18:57.136 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:19:07.137 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:19:07.142 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:19:17.143 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:19:17.151 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:19:27.153 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:19:27.163 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:19:37.163 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:19:37.169 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:19:47.173 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:19:47.179 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:19:57.183 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:19:57.189 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:20:07.192 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:20:07.198 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:20:17.199 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:20:17.205 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:20:27.205 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:20:27.212 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:20:37.213 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:20:37.218 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:20:47.219 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:20:47.225 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:20:57.225 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:20:57.231 Z","level":"fatal","msg":"Failed to ping DB, server will exit.","caller":"sqlstore/store.go:236","error":"pq: database \"mattermostdb\" does not exist"}
+{"timestamp":"2022-10-07 15:21:00.439 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 15:21:00.439 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:21:00.448 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:21:10.449 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:21:10.454 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:21:20.454 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:21:20.460 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:21:30.461 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:21:30.467 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:21:40.469 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:21:40.475 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:21:50.476 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:21:50.483 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:22:00.486 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:22:00.491 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:22:10.491 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:22:10.497 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:22:20.498 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:22:20.501 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:22:30.501 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:22:30.507 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:22:40.511 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:22:40.516 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:22:50.517 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:22:50.521 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:23:00.521 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:23:00.527 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:23:10.528 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:23:10.533 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:23:20.538 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:23:20.543 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:23:30.547 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:23:30.555 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:23:40.557 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:23:40.563 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:23:50.567 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:23:50.571 Z","level":"fatal","msg":"Failed to ping DB, server will exit.","caller":"sqlstore/store.go:236","error":"pq: database \"mattermostdb\" does not exist"}
+{"timestamp":"2022-10-07 15:23:53.738 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 15:23:53.738 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:23:53.746 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:24:03.746 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:24:03.750 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:24:13.754 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:24:13.760 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:24:23.763 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:24:23.768 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:24:33.769 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:24:33.775 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:24:43.779 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:24:43.785 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:24:53.789 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:24:53.794 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:25:03.799 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:25:03.804 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:25:13.808 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:25:13.814 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:25:23.818 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:25:23.824 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:25:33.824 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:25:33.831 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:25:43.833 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:25:43.838 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:25:53.846 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:25:53.853 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:26:03.855 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:26:03.858 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:26:13.859 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:26:13.863 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:26:45.536 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 15:26:45.536 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:26:45.544 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:26:55.545 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:26:55.551 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:27:05.552 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:27:05.558 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:27:15.562 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:27:15.565 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:27:25.566 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:27:25.571 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:27:35.575 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:27:35.582 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:27:45.585 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:27:45.590 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:27:55.594 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:27:55.600 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:28:05.601 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:28:05.606 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:28:15.607 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:28:15.613 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:28:25.613 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:28:25.619 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:28:35.619 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:28:35.626 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:28:45.627 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:28:45.632 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:28:55.637 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:28:55.642 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"pq: database \"mattermostdb\" does not exist","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:36:43.137 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-07 15:36:43.137 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:36:43.141 Z","level":"error","msg":"Failed to ping DB","caller":"sqlstore/store.go:238","error":"dial tcp 172.29.0.2:5432: connect: connection refused","retrying in seconds":10}
+{"timestamp":"2022-10-07 15:36:53.147 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-07 15:37:03.583 Z","level":"info","msg":"Starting websocket hubs","caller":"app/web_hub.go:93","number_of_hubs":12}
+{"timestamp":"2022-10-07 15:37:03.584 Z","level":"info","msg":"Loaded system translations","caller":"i18n/i18n.go:93","for locale":"en","from locale":"/mattermost/i18n/en.json"}
+{"timestamp":"2022-10-07 15:37:03.612 Z","level":"error","msg":"SiteURL must be set. Some features will operate incorrectly if the SiteURL is not set. See documentation for details: https://docs.mattermost.com/configure/configuration-settings.html#site-url","caller":"app/server.go:571"}
+{"timestamp":"2022-10-07 15:37:03.612 Z","level":"info","msg":"Current version is 7.3.0 (7.3.0/Wed Sep 14 12:11:34 UTC 2022/5d1fe271e68cc3baecaa115732c7fb7bc5073ec7/none)","caller":"app/server.go:580","current_version":"7.3.0","build_number":"7.3.0","build_date":"Wed Sep 14 12:11:34 UTC 2022","build_hash":"5d1fe271e68cc3baecaa115732c7fb7bc5073ec7","build_hash_enterprise":"none"}
+{"timestamp":"2022-10-07 15:37:03.612 Z","level":"info","msg":"Team Edition Build","caller":"app/server.go:591","enterprise_build":false}
+{"timestamp":"2022-10-07 15:37:03.612 Z","level":"info","msg":"Printing current working","caller":"app/server.go:595","directory":"/mattermost"}
+{"timestamp":"2022-10-07 15:37:03.612 Z","level":"info","msg":"Loaded config","caller":"app/server.go:596","source":"file:///mattermost/config/config.json"}
+{"timestamp":"2022-10-07 15:37:03.627 Z","level":"info","msg":"Starting workers","caller":"jobs/workers.go:48"}
+{"timestamp":"2022-10-07 15:37:03.628 Z","level":"info","msg":"Starting schedulers.","caller":"jobs/schedulers.go:47"}
+{"timestamp":"2022-10-07 15:37:03.631 Z","level":"info","msg":"Migrating roles to database.","caller":"app/migrations.go:35"}
+{"timestamp":"2022-10-07 15:37:03.658 Z","level":"error","msg":"License key from https://mattermost.com required to unlock enterprise features.","caller":"app/license.go:152","error":"resource: License id: "}
+{"timestamp":"2022-10-07 15:37:03.661 Z","level":"warn","msg":"Fetching time of first server run failed. Setting to 'now'.","caller":"app/server.go:721"}
+{"timestamp":"2022-10-07 15:37:03.801 Z","level":"info","msg":"Migrating emojis config to database.","caller":"app/migrations.go:112"}
+{"timestamp":"2022-10-07 15:37:07.086 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 15:37:08.700 Z","level":"info","msg":"Starting up plugins","caller":"app/plugin.go:212"}
+{"timestamp":"2022-10-07 15:37:08.700 Z","level":"info","msg":"Syncing plugins from the file store","caller":"app/plugin.go:286"}
+{"timestamp":"2022-10-07 15:37:10.820 Z","level":"info","msg":"Ensuring Feedbackbot exists","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.nps"}
+{"timestamp":"2022-10-07 15:37:11.035 Z","level":"info","msg":"feedbackbot created","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.nps"}
+{"timestamp":"2022-10-07 15:37:11.271 Z","level":"info","msg":"Upgrade detected. Checking if a survey should be scheduled.","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.nps"}
+{"timestamp":"2022-10-07 15:37:11.302 Z","level":"info","msg":"Scheduling next survey for Oct 28, 2022","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.nps"}
+{"timestamp":"2022-10-07 15:37:11.388 Z","level":"error","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:79","plugin_id":"com.mattermost.nps","wrapped_extras":"pathplugins/com.mattermost.nps/server/dist/plugin-linux-amd64pid26errorexit status 2"}
+{"timestamp":"2022-10-07 15:37:11.782 Z","level":"info","msg":"failed to configure","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.apps","error":"plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-07 15:37:11.788 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.apps","wrapped_extras":"pathplugins/com.mattermost.apps/server/dist/plugin-linux-amd64pid42"}
+{"timestamp":"2022-10-07 15:37:11.813 Z","level":"error","msg":"Failed to install prepackaged plugin","caller":"app/plugin.go:950","path":"/mattermost/prepackaged_plugins/mattermost-plugin-apps-v1.1.0-linux-amd64.tar.gz","error":"Failed to install extracted prepackaged plugin /mattermost/prepackaged_plugins/mattermost-plugin-apps-v1.1.0-linux-amd64.tar.gz: installExtractedPlugin: Unable to restart plugin on upgrade., failed to load initial configuration: plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-07 15:37:12.594 Z","level":"info","msg":"got public IP address","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84","addr":"31.47.54.78"}
+{"timestamp":"2022-10-07 15:37:12.595 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-07 15:37:12.597 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-07 15:37:12.599 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-07 15:37:12.601 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-07 15:37:12.603 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-07 15:37:12.605 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-07 15:37:13.358 Z","level":"info","msg":"Post.Message has size restrictions","caller":"sqlstore/post_store.go:2442","max_characters":16383,"max_bytes":65535}
+{"timestamp":"2022-10-07 15:37:16.471 Z","level":"info","msg":"connectDatabase","caller":"app/plugin_api.go:971","plugin_id":"focalboard","dbType":"postgres"}
+{"timestamp":"2022-10-07 15:37:16.682 Z","level":"info","msg":"2022/10/07 15:37:16 ==  init: migrating  ===============================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:16.782 Z","level":"info","msg":"2022/10/07 15:37:16 ==  init: migrated (0.0990s)  ======================================================================\n2022/10/07 15:37:16 ==  system_settings_table: migrating  ==============================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:16.863 Z","level":"info","msg":"2022/10/07 15:37:16 ==  system_settings_table: migrated (0.0813s)  =====================================================\n2022/10/07 15:37:16 ==  blocks_rootid: migrating  ======================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:16.872 Z","level":"info","msg":"2022/10/07 15:37:16 ==  blocks_rootid: migrated (0.0098s)  =============================================================\n2022/10/07 15:37:16 ==  auth_table: migrating  =========================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.132 Z","level":"info","msg":"2022/10/07 15:37:17 ==  auth_table: migrated (0.2598s)  ================================================================\n2022/10/07 15:37:17 ==  blocks_modifiedby: migrating  ==================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.142 Z","level":"info","msg":"2022/10/07 15:37:17 ==  blocks_modifiedby: migrated (0.0101s)  =========================================================\n2022/10/07 15:37:17 ==  sharing_table: migrating  ======================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.208 Z","level":"info","msg":"2022/10/07 15:37:17 ==  sharing_table: migrated (0.0656s)  =============================================================\n2022/10/07 15:37:17 ==  workspaces_table: migrating  ===================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.288 Z","level":"info","msg":"2022/10/07 15:37:17 ==  workspaces_table: migrated (0.0798s)  ==========================================================\n2022/10/07 15:37:17 ==  teams: migrating  ==============================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.305 Z","level":"info","msg":"2022/10/07 15:37:17 ==  teams: migrated (0.0171s)  =====================================================================\n2022/10/07 15:37:17 ==  blocks_history: migrating  =====================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.374 Z","level":"info","msg":"2022/10/07 15:37:17 ==  blocks_history: migrated (0.0684s)  ============================================================\n2022/10/07 15:37:17 ==  blocks_created_by: migrating  ==================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.385 Z","level":"info","msg":"2022/10/07 15:37:17 ==  blocks_created_by: migrated (0.0113s)  =========================================================\n2022/10/07 15:37:17 ==  match_collation: migrating  ====================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.391 Z","level":"info","msg":"2022/10/07 15:37:17 ==  match_collation: migrated (0.0055s)  ===========================================================\n2022/10/07 15:37:17 ==  match_column_collation: migrating  =============================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.397 Z","level":"info","msg":"2022/10/07 15:37:17 ==  match_column_collation: migrated (0.0058s)  ====================================================\n2022/10/07 15:37:17 ==  millisecond_timestamps: migrating  =============================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.408 Z","level":"info","msg":"2022/10/07 15:37:17 ==  millisecond_timestamps: migrated (0.0111s)  ====================================================\n2022/10/07 15:37:17 ==  add_not_null_constraint: migrating  ============================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.414 Z","level":"info","msg":"2022/10/07 15:37:17 ==  add_not_null_constraint: migrated (0.0057s)  ===================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.439 Z","level":"info","msg":"2022/10/07 15:37:17 ==  blocks_history_no_nulls: migrating  ============================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.449 Z","level":"info","msg":"2022/10/07 15:37:17 ==  blocks_history_no_nulls: migrated (0.0085s)  ===================================================\n2022/10/07 15:37:17 ==  subscriptions_table: migrating  ================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.517 Z","level":"info","msg":"2022/10/07 15:37:17 ==  subscriptions_table: migrated (0.0689s)  =======================================================\n2022/10/07 15:37:17 ==  add_file_info: migrating  ======================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.557 Z","level":"info","msg":"2022/10/07 15:37:17 ==  add_file_info: migrated (0.0398s)  =============================================================\n2022/10/07 15:37:17 ==  add_teams_and_boards: migrating  ===============================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.792 Z","level":"info","msg":"2022/10/07 15:37:17 ==  add_teams_and_boards: migrated (0.2343s)  ======================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.834 Z","level":"info","msg":"2022/10/07 15:37:17 ==  populate_categories: migrating  ================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.905 Z","level":"info","msg":"2022/10/07 15:37:17 ==  populate_categories: migrated (0.0710s)  =======================================================\n2022/10/07 15:37:17 ==  populate_category_blocks: migrating  ===========================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:17.980 Z","level":"info","msg":"2022/10/07 15:37:17 ==  populate_category_blocks: migrated (0.0745s)  ==================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:18.026 Z","level":"info","msg":"2022/10/07 15:37:18 ==  create_boards_members_history: migrating  ======================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:18.122 Z","level":"info","msg":"2022/10/07 15:37:18 ==  create_boards_members_history: migrated (0.0959s)  =============================================\n2022/10/07 15:37:18 ==  create_default_board_role: migrating  ==========================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:18.139 Z","level":"info","msg":"2022/10/07 15:37:18 ==  create_default_board_role: migrated (0.0171s)  =================================================\n2022/10/07 15:37:18 ==  persist_category_collapsed_state: migrating  ===================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:18.150 Z","level":"info","msg":"2022/10/07 15:37:18 ==  persist_category_collapsed_state: migrated (0.0113s)  ==========================================\n2022/10/07 15:37:18 ==  mark_existsing_categories_collapsed: migrating  ================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:18.162 Z","level":"info","msg":"2022/10/07 15:37:18 ==  mark_existsing_categories_collapsed: migrated (0.0112s)  =======================================\n2022/10/07 15:37:18 ==  indexes_update: migrating  =====================================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:18.283 Z","level":"info","msg":"2022/10/07 15:37:18 ==  indexes_update: migrated (0.1212s)  ============================================================\n","caller":"io/io.go:428","plugin_id":"focalboard","source":"plugin_stderr"}
+{"timestamp":"2022-10-07 15:37:18.435 Z","level":"info","msg":"Initialized notification backend","caller":"app/plugin_api.go:971","plugin_id":"focalboard","name":"notifyMentions"}
+{"timestamp":"2022-10-07 15:37:18.437 Z","level":"info","msg":"Initialized notification backend","caller":"app/plugin_api.go:971","plugin_id":"focalboard","name":"notifySubscriptions"}
+{"timestamp":"2022-10-07 15:37:18.438 Z","level":"info","msg":"Initialized notification backend","caller":"app/plugin_api.go:971","plugin_id":"focalboard","name":"notifyLogger"}
+{"timestamp":"2022-10-07 15:37:25.576 Z","level":"info","msg":"FocalBoard Server","caller":"app/plugin_api.go:971","plugin_id":"focalboard","version":"7.2.1","edition":"plugin","build_number":"2922758659","build_date":"\"Wed Aug 24 22:47:26 UTC 2022\"","build_hash":"74846cd39c90f3635de0ca531e0920e38f582097"}
+{"timestamp":"2022-10-07 15:37:25.576 Z","level":"info","msg":"Server.Start","caller":"app/plugin_api.go:971","plugin_id":"focalboard"}
+{"timestamp":"2022-10-07 15:37:25.830 Z","level":"info","msg":"failed to configure","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.apps","error":"plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-07 15:37:25.839 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.apps","wrapped_extras":"pathplugins/com.mattermost.apps/server/dist/plugin-linux-amd64pid92"}
+{"timestamp":"2022-10-07 15:37:25.839 Z","level":"error","msg":"Unable to activate plugin","caller":"app/plugin.go:165","plugin_id":"com.mattermost.apps","error":"failed to load initial configuration: plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-07 15:37:25.873 Z","level":"error","msg":"Mail server connection test failed","caller":"app/server.go:1110","error":"unable to connect: unable to connect to the SMTP server: dial tcp 127.0.0.1:10025: connect: connection refused"}
+{"timestamp":"2022-10-07 15:37:25.880 Z","level":"info","msg":"Starting Server...","caller":"app/server.go:1128"}
+{"timestamp":"2022-10-07 15:37:25.881 Z","level":"info","msg":"Server is listening on [::]:8065","caller":"app/server.go:1201","address":"[::]:8065"}
+{"timestamp":"2022-10-07 15:37:38.701 Z","level":"warn","msg":"Health check failed for plugin","caller":"plugin/health_check.go:59","id":"com.mattermost.nps","error":"plugin RPC connection is not responding"}
+{"timestamp":"2022-10-07 15:37:38.701 Z","level":"error","msg":"RPC call OnDeactivate to plugin failed.","caller":"plugin/client_rpc_generated.go:33","plugin_id":"com.mattermost.nps","error":"connection is shut down"}
+{"timestamp":"2022-10-07 15:37:38.701 Z","level":"warn","msg":"error closing client during Kill","caller":"plugin/hclog_adapter.go:70","plugin_id":"com.mattermost.nps","wrapped_extras":"errconnection is shut down"}
+{"timestamp":"2022-10-07 15:37:38.701 Z","level":"warn","msg":"plugin failed to exit gracefully","caller":"plugin/hclog_adapter.go:72","plugin_id":"com.mattermost.nps"}
+{"timestamp":"2022-10-07 15:37:38.813 Z","level":"info","msg":"Ensuring Feedbackbot exists","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.nps"}
+{"timestamp":"2022-10-07 15:38:25.191 Z","level":"info","msg":"Worker: Job is complete","caller":"migrations/worker.go:123","worker":"Migrations","job_id":"u4pwd76ohbno7m3szuasw4j66h"}
+{"timestamp":"2022-10-07 15:40:00.004 Z","level":"error","msg":"Failed to get system bot","caller":"app/post.go:2009","error":"GetSystemBot: List of admins is empty."}
+{"timestamp":"2022-10-07 15:40:04.071 Z","level":"warn","msg":"Failed to send welcome email on create user from signup","caller":"app/user.go:194","path":"/api/v4/users","request_id":"3hnu3hwg8igobyah6px93hnhoc","ip_addr":"192.168.4.10","user_id":"","method":"POST","error":"unable to connect to the SMTP server: dial tcp 127.0.0.1:10025: connect: connection refused"}
+{"timestamp":"2022-10-07 15:40:20.949 Z","level":"error","msg":"public error message: Not found; internal details: playbook run for channel id enycxe87fjbqpymm14io63byuh not found","caller":"app/plugin_api.go:974","plugin_id":"playbooks"}
+{"timestamp":"2022-10-07 15:47:10.513 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 15:57:10.525 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 16:07:10.559 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 16:17:10.534 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 16:27:10.528 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 16:37:31.864 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"3dze6sewgig898fykdhc543zby"}
+{"timestamp":"2022-10-07 17:37:10.589 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 17:37:32.685 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"nyy818kkc784zfzrx41n9wfn7c"}
+{"timestamp":"2022-10-07 18:37:33.411 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"5qpqs79xm7rq8pgxo8ht8npica"}
+{"timestamp":"2022-10-07 18:47:10.554 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 19:37:38.267 Z","level":"error","msg":"Worker: Failed to fetch product notices","caller":"product_notices/worker.go:24","worker":"product_notices","job_id":"8iabq1mhc7nu5dbeptn7paq36y","error":"UpdateProductNotices: Fetching product notices failed, Get \"https://notices.mattermost.com/\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 19:37:38.267 Z","level":"error","msg":"SimpleWorker: job execution error","caller":"jobs/base_workers.go:83","worker":"ProductNotices","job_id":"8iabq1mhc7nu5dbeptn7paq36y","error":"UpdateProductNotices: Fetching product notices failed, Get \"https://notices.mattermost.com/\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 19:57:10.554 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 20:37:35.470 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"w3cow5qojpy47ycza5ee97berc"}
+{"timestamp":"2022-10-07 21:07:10.509 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 21:37:14.811 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"co4pa1k63ib99nph6jdq6t17xo"}
+{"timestamp":"2022-10-07 22:17:10.529 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 22:37:15.485 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"5x5tw5y5nide8yuojs748sf3yo"}
+{"timestamp":"2022-10-07 23:27:10.510 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-07 23:37:20.892 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"31ckpzcnet8w8cp865b9u84oac"}
+{"timestamp":"2022-10-08 00:37:20.964 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"pc97d6hfhibn5munqw59iqd1he"}
+{"timestamp":"2022-10-08 01:37:24.548 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"5x9k9fu9ebnxzyaunu1ascmi6w"}
+{"timestamp":"2022-10-08 02:37:24.495 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"dkignre9jf8r3djhk9wa3d8y8e"}
+{"timestamp":"2022-10-08 02:47:10.490 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-08 03:37:28.968 Z","level":"error","msg":"Worker: Failed to fetch product notices","caller":"product_notices/worker.go:24","worker":"product_notices","job_id":"m8cc84zamjntmk1tyi195auosh","error":"UpdateProductNotices: Fetching product notices failed, Get \"https://notices.mattermost.com/\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-08 03:37:28.969 Z","level":"error","msg":"SimpleWorker: job execution error","caller":"jobs/base_workers.go:83","worker":"ProductNotices","job_id":"m8cc84zamjntmk1tyi195auosh","error":"UpdateProductNotices: Fetching product notices failed, Get \"https://notices.mattermost.com/\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-08 04:37:23.512 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"4wbwtjfptjnnfcjdfysxrq5duh"}
+{"timestamp":"2022-10-08 05:37:26.949 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"ztk6tpw7ptbijg5fec6d44rgka"}
+{"timestamp":"2022-10-08 06:37:25.265 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"tcxa6e5r9jb8tdu69eq18yozar"}
+{"timestamp":"2022-10-08 07:37:26.652 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"dkyz35qyw7f53qqp8673as6ich"}
+{"timestamp":"2022-10-08 08:37:27.815 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"ifygzp83cfrpfdthmjp3n36p6w"}
+{"timestamp":"2022-10-08 09:37:34.129 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"ahaxrnej6bn98cedfopd99wngc"}
+{"timestamp":"2022-10-08 10:37:34.549 Z","level":"error","msg":"Worker: Failed to fetch product notices","caller":"product_notices/worker.go:24","worker":"product_notices","job_id":"iqxrw3nwj3f6jx64g3ei89sjpw","error":"UpdateProductNotices: Fetching product notices failed, Get \"https://notices.mattermost.com/\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-08 10:37:34.549 Z","level":"error","msg":"SimpleWorker: job execution error","caller":"jobs/base_workers.go:83","worker":"ProductNotices","job_id":"iqxrw3nwj3f6jx64g3ei89sjpw","error":"UpdateProductNotices: Fetching product notices failed, Get \"https://notices.mattermost.com/\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-08 11:37:32.467 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"rrpfx3gdt7nzmcyo3yb5sd31mh"}
+{"timestamp":"2022-10-08 12:37:31.388 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"hdmtku3phfn998yux6ecfdacgw"}
+{"timestamp":"2022-10-08 13:37:32.644 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"d7s5waz6kbfu9fks5zfr9f3xbw"}
+{"timestamp":"2022-10-08 14:37:33.456 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"nkahuffsujn1bgh3weotweqiph"}
+{"timestamp":"2022-10-08 15:37:03.663 Z","level":"error","msg":"License key from https://mattermost.com required to unlock enterprise features.","caller":"app/license.go:152","error":"resource: License id: "}
+{"timestamp":"2022-10-08 15:37:27.982 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ExportDelete","job_id":"fabm6oyi13b4fpp7n1s4q8akzw"}
+{"timestamp":"2022-10-08 15:37:27.991 Z","level":"info","msg":"Worker: Job is complete","caller":"scheduler/worker.go:89","worker":"Plugins","job_id":"ebakmwpepiyapqqwcdmcxpenye"}
+{"timestamp":"2022-10-08 15:37:27.999 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ImportDelete","job_id":"fdfxarhz9pg4t8f5hjf16nkaar"}
+{"timestamp":"2022-10-08 15:37:33.935 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"biymqz7d4tn13g9g7dzcqz5sue"}
+{"timestamp":"2022-10-08 16:37:35.648 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"zn5pr8nt6tdk5b9kmey6dpi5qr"}
+{"timestamp":"2022-10-08 17:37:36.350 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"o3euqjqqk7bdxk9bgwu5ji7htr"}
+{"timestamp":"2022-10-08 18:37:36.917 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"ba1ortjehiftmg9x4a3dkqkk4e"}
+{"timestamp":"2022-10-08 19:37:22.014 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"xnfjbd6gh7fj7yk845uttq6dhc"}
+{"timestamp":"2022-10-08 20:37:23.445 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"k44gan3sebyup8skgnsuwbgm9w"}
+{"timestamp":"2022-10-08 21:37:26.035 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"6p1o5zzydtrqd844ddqtsgjdsw"}
+{"timestamp":"2022-10-08 22:37:24.867 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"ms4nurma6p8y7nezo8qb9ams5e"}
+{"timestamp":"2022-10-08 23:37:24.341 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"yjxqxqzu1iruifj4w1pppceubr"}
+{"timestamp":"2022-10-09 00:37:27.101 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"ib4yke3subni5cusqcrop8tieh"}
+{"timestamp":"2022-10-09 01:37:28.254 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"p6ubcuhdmff3mcgpsnjoto6feh"}
+{"timestamp":"2022-10-09 02:37:27.908 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"b6tezxsfpbyiir665uu1hfbu4w"}
+{"timestamp":"2022-10-09 02:47:10.589 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-09 03:37:29.170 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"tixpzga7gbfgxjq5kq4ra55ayo"}
+{"timestamp":"2022-10-09 04:37:30.367 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"rb95uf6cbp8n8e8eukd5c43iaw"}
+{"timestamp":"2022-10-09 05:37:31.065 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"iy86artyrfyzmmwr9difdwkpzr"}
+{"timestamp":"2022-10-09 06:37:32.557 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"ujewuziz7bgttrbfgtias4xr4r"}
+{"timestamp":"2022-10-09 07:37:30.894 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"mt1uxge1hjg7unf48jc8h9hnxy"}
+{"timestamp":"2022-10-09 08:37:34.398 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"jfjpiodpfpgx3f3yy45qjksafw"}
+{"timestamp":"2022-10-09 09:37:34.193 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"otb1jj4fdjnru8rd8iqzu33why"}
+{"timestamp":"2022-10-09 10:37:37.546 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"xfrmgssritr4ir389bxx1y4e4w"}
+{"timestamp":"2022-10-09 11:37:42.097 Z","level":"error","msg":"Worker: Failed to fetch product notices","caller":"product_notices/worker.go:24","worker":"product_notices","job_id":"4xy6nb6fwjyk8k3beq9w9r1zow","error":"UpdateProductNotices: Fetching product notices failed, Get \"https://notices.mattermost.com/\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-09 11:37:42.097 Z","level":"error","msg":"SimpleWorker: job execution error","caller":"jobs/base_workers.go:83","worker":"ProductNotices","job_id":"4xy6nb6fwjyk8k3beq9w9r1zow","error":"UpdateProductNotices: Fetching product notices failed, Get \"https://notices.mattermost.com/\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-09 12:37:38.870 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"5kum8z1hb3rqi8s1cddysxy35e"}
+{"timestamp":"2022-10-09 13:37:36.244 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"bn5bj8dydffsfnt3jk5wn14m7c"}
+{"timestamp":"2022-10-09 14:37:39.280 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"rc3zq8stpbnytrthgut3nh767y"}
+{"timestamp":"2022-10-09 15:37:03.667 Z","level":"error","msg":"License key from https://mattermost.com required to unlock enterprise features.","caller":"app/license.go:152","error":"resource: License id: "}
+{"timestamp":"2022-10-09 15:37:17.500 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ExportDelete","job_id":"3qsb1ddrdbrjmd6day1eefrdbe"}
+{"timestamp":"2022-10-09 15:37:17.505 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ImportDelete","job_id":"tgr4jzjo57yfddthq1z1jy8ady"}
+{"timestamp":"2022-10-09 15:37:17.525 Z","level":"info","msg":"Worker: Job is complete","caller":"scheduler/worker.go:89","worker":"Plugins","job_id":"8o1w4qp6etrp9ygz4zqzyraxtc"}
+{"timestamp":"2022-10-09 15:37:21.963 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"7qusyrhpafgn8yqx6ec5p1wzcw"}
+{"timestamp":"2022-10-09 16:37:25.114 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"od4mgaz5bff13nw9m7y3fk4yih"}
+{"timestamp":"2022-10-09 17:37:23.863 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"zzfgymmng3nbie6ed76qznyr9o"}
+{"timestamp":"2022-10-09 18:37:29.568 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"kzmycujgs3butk5me3j3p7o8zr"}
+{"timestamp":"2022-10-09 19:37:26.327 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"mb3z7ci9h7yhbcf9mq4w5fxpaa"}
+{"timestamp":"2022-10-09 20:37:25.016 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"sh1khm59ttfatjhxigkhqs5dwh"}
+{"timestamp":"2022-10-09 21:37:28.423 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"88to47mkpfgk3fecie7fs6fdua"}
+{"timestamp":"2022-10-09 22:37:27.147 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"3gpp3codp3gjxndz145ahd69zy"}
+{"timestamp":"2022-10-09 23:37:30.593 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"sh39twja17rhbpx3rkfjk1rz7a"}
+{"timestamp":"2022-10-10 00:37:31.146 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"pzmcdbstrfr7iqxiiseg47z61r"}
+{"timestamp":"2022-10-10 01:37:31.599 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"g8d5f68b3irsxy5q13mffqkenr"}
+{"timestamp":"2022-10-10 02:37:32.442 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"puk5qwmjkfd93e5o4h8nhdqpmr"}
+{"timestamp":"2022-10-10 02:47:10.507 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-10 03:37:31.059 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"emj88pcmt7f7xnw99rbtcou3jo"}
+{"timestamp":"2022-10-10 04:37:35.217 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"gzkgbmafjjbpubr8ycbbizwrey"}
+{"timestamp":"2022-10-10 05:37:35.729 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"csrubg98ib81jx55n1a8nm963a"}
+{"timestamp":"2022-10-10 06:37:34.001 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"i7e8h7qew7gspgkpe7yu5ixdur"}
+{"timestamp":"2022-10-10 07:37:38.813 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"7ynnto7p7jncbxs7ci3qbnmw8r"}
+{"timestamp":"2022-10-10 08:37:43.672 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"aiu4mjyanjf7ifno7hs1eni8wc"}
+{"timestamp":"2022-10-10 09:37:39.780 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"of4cezi6mfbq5rx59xyi75o3ce"}
+{"timestamp":"2022-10-10 10:37:42.442 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"eane497xzf8f9mpdkjth77yp6a"}
+{"timestamp":"2022-10-10 11:37:56.486 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"3m4m15qpq7f45d49dggyrgtbzr"}
+{"timestamp":"2022-10-10 12:37:24.168 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"fnxr357q9jgrxfua1s4cw81w3e"}
+{"timestamp":"2022-10-10 13:37:24.144 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"3n9rw1n6r78n3xqmhjkk5es58y"}
+{"timestamp":"2022-10-10 14:37:27.643 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"7mhmsqstu7rbfr4s85kh5a8pqc"}
+{"timestamp":"2022-10-10 15:37:03.667 Z","level":"error","msg":"License key from https://mattermost.com required to unlock enterprise features.","caller":"app/license.go:152","error":"resource: License id: "}
+{"timestamp":"2022-10-10 15:37:21.399 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ExportDelete","job_id":"7zm51kduqtdqibxr3bb7auhooh"}
+{"timestamp":"2022-10-10 15:37:21.422 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ImportDelete","job_id":"mabapt3axffsbjdfs8hfsyy65h"}
+{"timestamp":"2022-10-10 15:37:21.430 Z","level":"info","msg":"Worker: Job is complete","caller":"scheduler/worker.go:89","worker":"Plugins","job_id":"7ijt8kyortdhzg66wweauyu5uh"}
+{"timestamp":"2022-10-10 15:37:26.254 Z","level":"info","msg":"SimpleWorker: Job is complete","caller":"jobs/base_workers.go:88","worker":"ProductNotices","job_id":"d8se1neuz3yobew6cx59m51bdy"}
+{"timestamp":"2022-10-10 15:46:36.061 Z","level":"info","msg":"Stopping Server...","caller":"app/server.go:872"}
+{"timestamp":"2022-10-10 15:46:36.061 Z","level":"info","msg":"stopping websocket hub connections","caller":"app/web_hub.go:113"}
+{"timestamp":"2022-10-10 15:46:36.080 Z","level":"info","msg":"Stopped workers","caller":"jobs/workers.go:90"}
+{"timestamp":"2022-10-10 15:46:36.080 Z","level":"info","msg":"Stopping schedulers.","caller":"jobs/schedulers.go:118"}
+{"timestamp":"2022-10-10 15:46:36.080 Z","level":"info","msg":"Schedulers stopped.","caller":"jobs/schedulers.go:50"}
+{"timestamp":"2022-10-10 15:46:36.080 Z","level":"info","msg":"Shutting down plugins","caller":"app/plugin.go:366"}
+{"timestamp":"2022-10-10 15:46:36.086 Z","level":"info","msg":"rtc: server was shutdown","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-10 15:46:36.088 Z","level":"info","msg":"Server.Shutdown","caller":"app/plugin_api.go:971","plugin_id":"focalboard"}
+{"timestamp":"2022-10-10 15:46:36.089 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.plugin-channel-export","wrapped_extras":"pathplugins/com.mattermost.plugin-channel-export/server/dist/plugin-linux-amd64pid35"}
+{"timestamp":"2022-10-10 15:46:36.089 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"playbooks","wrapped_extras":"pathplugins/playbooks/server/dist/plugin-linux-amd64pid71"}
+{"timestamp":"2022-10-10 15:46:36.095 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.nps","wrapped_extras":"pathplugins/com.mattermost.nps/server/dist/plugin-linux-amd64pid102"}
+{"timestamp":"2022-10-10 15:46:36.101 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"focalboard","wrapped_extras":"pathplugins/focalboard/server/dist/plugin-linux-amd64pid81"}
+{"timestamp":"2022-10-10 15:46:36.104 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.calls","wrapped_extras":"pathplugins/com.mattermost.calls/server/dist/plugin-linux-amd64pid52"}
+{"timestamp":"2022-10-10 15:46:36.104 Z","level":"info","msg":"Server stopped","caller":"app/server.go:965"}
+{"timestamp":"2022-10-16 18:37:33.199 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-16 18:37:33.199 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-16 18:37:33.335 Z","level":"info","msg":"Starting websocket hubs","caller":"app/web_hub.go:93","number_of_hubs":12}
+{"timestamp":"2022-10-16 18:37:33.339 Z","level":"info","msg":"Loaded system translations","caller":"i18n/i18n.go:93","for locale":"en","from locale":"/mattermost/i18n/en.json"}
+{"timestamp":"2022-10-16 18:37:33.365 Z","level":"error","msg":"SiteURL must be set. Some features will operate incorrectly if the SiteURL is not set. See documentation for details: https://docs.mattermost.com/configure/configuration-settings.html#site-url","caller":"app/server.go:571"}
+{"timestamp":"2022-10-16 18:37:33.365 Z","level":"info","msg":"Current version is 7.3.0 (7.3.0/Wed Sep 14 12:11:34 UTC 2022/5d1fe271e68cc3baecaa115732c7fb7bc5073ec7/none)","caller":"app/server.go:580","current_version":"7.3.0","build_number":"7.3.0","build_date":"Wed Sep 14 12:11:34 UTC 2022","build_hash":"5d1fe271e68cc3baecaa115732c7fb7bc5073ec7","build_hash_enterprise":"none"}
+{"timestamp":"2022-10-16 18:37:33.365 Z","level":"info","msg":"Team Edition Build","caller":"app/server.go:591","enterprise_build":false}
+{"timestamp":"2022-10-16 18:37:33.365 Z","level":"info","msg":"Printing current working","caller":"app/server.go:595","directory":"/mattermost"}
+{"timestamp":"2022-10-16 18:37:33.365 Z","level":"info","msg":"Loaded config","caller":"app/server.go:596","source":"file:///mattermost/config/config.json"}
+{"timestamp":"2022-10-16 18:37:33.377 Z","level":"info","msg":"Starting workers","caller":"jobs/workers.go:48"}
+{"timestamp":"2022-10-16 18:37:33.378 Z","level":"info","msg":"Starting schedulers.","caller":"jobs/schedulers.go:47"}
+{"timestamp":"2022-10-16 18:37:33.408 Z","level":"error","msg":"License key from https://mattermost.com required to unlock enterprise features.","caller":"app/license.go:152","error":"resource: License id: "}
+{"timestamp":"2022-10-16 18:37:33.727 Z","level":"info","msg":"Starting up plugins","caller":"app/plugin.go:212"}
+{"timestamp":"2022-10-16 18:37:33.727 Z","level":"info","msg":"Syncing plugins from the file store","caller":"app/plugin.go:286"}
+{"timestamp":"2022-10-16 18:37:36.198 Z","level":"info","msg":"Ensuring Feedbackbot exists","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.nps"}
+{"timestamp":"2022-10-16 18:37:37.139 Z","level":"info","msg":"failed to configure","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.apps","error":"plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-16 18:37:37.141 Z","level":"info","msg":"2022/10/16 18:37:37 [ERR] plugin: plugin server: accept unix /tmp/plugin3543636495: use of closed network connection\n","caller":"io/io.go:428","plugin_id":"com.mattermost.apps","source":"plugin_stderr"}
+{"timestamp":"2022-10-16 18:37:37.150 Z","level":"info","msg":"Failed to fetch marketplace plugins for telemetry. Using predefined list.","caller":"telemetry/telemetry.go:1393","error":"Get \"https://api.integrations.mattermost.com/api/v1/plugins?build_enterprise_ready=false&cloud=false&enterprise_plugins=false&filter=&local_only=false&page=0&platform=&plugin_id=&return_all_versions=false&server_version=7.3.0\": net/http: TLS handshake timeout"}
+{"timestamp":"2022-10-16 18:37:37.347 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.apps","wrapped_extras":"pathplugins/com.mattermost.apps/server/dist/plugin-linux-amd64pid47"}
+{"timestamp":"2022-10-16 18:37:37.368 Z","level":"error","msg":"Failed to install prepackaged plugin","caller":"app/plugin.go:950","path":"/mattermost/prepackaged_plugins/mattermost-plugin-apps-v1.1.0-linux-amd64.tar.gz","error":"Failed to install extracted prepackaged plugin /mattermost/prepackaged_plugins/mattermost-plugin-apps-v1.1.0-linux-amd64.tar.gz: installExtractedPlugin: Unable to restart plugin on upgrade., failed to load initial configuration: plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-16 18:37:37.849 Z","level":"info","msg":"got public IP address","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84","addr":"31.47.54.78"}
+{"timestamp":"2022-10-16 18:37:37.850 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:37:37.852 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:37:37.853 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:37:37.854 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:37:37.855 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:37:37.857 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:37:42.764 Z","level":"info","msg":"connectDatabase","caller":"app/plugin_api.go:971","plugin_id":"focalboard","dbType":"postgres"}
+{"timestamp":"2022-10-16 18:37:43.056 Z","level":"info","msg":"Initialized notification backend","caller":"app/plugin_api.go:971","plugin_id":"focalboard","name":"notifyMentions"}
+{"timestamp":"2022-10-16 18:37:43.058 Z","level":"info","msg":"Initialized notification backend","caller":"app/plugin_api.go:971","plugin_id":"focalboard","name":"notifySubscriptions"}
+{"timestamp":"2022-10-16 18:37:43.059 Z","level":"info","msg":"Initialized notification backend","caller":"app/plugin_api.go:971","plugin_id":"focalboard","name":"notifyLogger"}
+{"timestamp":"2022-10-16 18:37:43.098 Z","level":"info","msg":"FocalBoard Server","caller":"app/plugin_api.go:971","plugin_id":"focalboard","version":"7.2.1","edition":"plugin","build_number":"2922758659","build_date":"\"Wed Aug 24 22:47:26 UTC 2022\"","build_hash":"74846cd39c90f3635de0ca531e0920e38f582097"}
+{"timestamp":"2022-10-16 18:37:43.099 Z","level":"info","msg":"Server.Start","caller":"app/plugin_api.go:971","plugin_id":"focalboard"}
+{"timestamp":"2022-10-16 18:37:43.372 Z","level":"info","msg":"failed to configure","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.apps","error":"plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-16 18:37:43.379 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.apps","wrapped_extras":"pathplugins/com.mattermost.apps/server/dist/plugin-linux-amd64pid88"}
+{"timestamp":"2022-10-16 18:37:43.379 Z","level":"error","msg":"Unable to activate plugin","caller":"app/plugin.go:165","plugin_id":"com.mattermost.apps","error":"failed to load initial configuration: plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-16 18:37:43.397 Z","level":"error","msg":"Mail server connection test failed","caller":"app/server.go:1110","error":"unable to connect: unable to connect to the SMTP server: dial tcp 127.0.0.1:10025: connect: connection refused"}
+{"timestamp":"2022-10-16 18:37:43.408 Z","level":"info","msg":"Starting Server...","caller":"app/server.go:1128"}
+{"timestamp":"2022-10-16 18:37:43.408 Z","level":"info","msg":"Server is listening on [::]:8065","caller":"app/server.go:1201","address":"[::]:8065"}
+{"timestamp":"2022-10-16 18:41:53.518 Z","level":"info","msg":"Stopping Server...","caller":"app/server.go:872"}
+{"timestamp":"2022-10-16 18:41:53.518 Z","level":"info","msg":"stopping websocket hub connections","caller":"app/web_hub.go:113"}
+{"timestamp":"2022-10-16 18:41:53.532 Z","level":"info","msg":"Stopped workers","caller":"jobs/workers.go:90"}
+{"timestamp":"2022-10-16 18:41:53.532 Z","level":"info","msg":"Stopping schedulers.","caller":"jobs/schedulers.go:118"}
+{"timestamp":"2022-10-16 18:41:53.532 Z","level":"info","msg":"Schedulers stopped.","caller":"jobs/schedulers.go:50"}
+{"timestamp":"2022-10-16 18:41:53.532 Z","level":"info","msg":"Shutting down plugins","caller":"app/plugin.go:366"}
+{"timestamp":"2022-10-16 18:41:53.535 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.plugin-channel-export","wrapped_extras":"pathplugins/com.mattermost.plugin-channel-export/server/dist/plugin-linux-amd64pid27"}
+{"timestamp":"2022-10-16 18:41:53.535 Z","level":"info","msg":"rtc: server was shutdown","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:41:53.536 Z","level":"info","msg":"Server.Shutdown","caller":"app/plugin_api.go:971","plugin_id":"focalboard"}
+{"timestamp":"2022-10-16 18:41:53.537 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.nps","wrapped_extras":"pathplugins/com.mattermost.nps/server/dist/plugin-linux-amd64pid28"}
+{"timestamp":"2022-10-16 18:41:53.538 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"playbooks","wrapped_extras":"pathplugins/playbooks/server/dist/plugin-linux-amd64pid66"}
+{"timestamp":"2022-10-16 18:41:53.539 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"focalboard","wrapped_extras":"pathplugins/focalboard/server/dist/plugin-linux-amd64pid77"}
+{"timestamp":"2022-10-16 18:41:53.546 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.calls","wrapped_extras":"pathplugins/com.mattermost.calls/server/dist/plugin-linux-amd64pid56"}
+{"timestamp":"2022-10-16 18:41:53.546 Z","level":"info","msg":"Server stopped","caller":"app/server.go:965"}
+{"timestamp":"2022-10-16 18:42:27.980 Z","level":"info","msg":"Server is initializing...","caller":"app/server.go:269","go_version":"go1.18.1"}
+{"timestamp":"2022-10-16 18:42:27.980 Z","level":"info","msg":"Pinging SQL","caller":"sqlstore/store.go:228","database":"master"}
+{"timestamp":"2022-10-16 18:42:28.065 Z","level":"info","msg":"Starting websocket hubs","caller":"app/web_hub.go:93","number_of_hubs":12}
+{"timestamp":"2022-10-16 18:42:28.071 Z","level":"info","msg":"Loaded system translations","caller":"i18n/i18n.go:93","for locale":"en","from locale":"/mattermost/i18n/en.json"}
+{"timestamp":"2022-10-16 18:42:28.097 Z","level":"error","msg":"SiteURL must be set. Some features will operate incorrectly if the SiteURL is not set. See documentation for details: https://docs.mattermost.com/configure/configuration-settings.html#site-url","caller":"app/server.go:571"}
+{"timestamp":"2022-10-16 18:42:28.097 Z","level":"info","msg":"Current version is 7.3.0 (7.3.0/Wed Sep 14 12:11:34 UTC 2022/5d1fe271e68cc3baecaa115732c7fb7bc5073ec7/none)","caller":"app/server.go:580","current_version":"7.3.0","build_number":"7.3.0","build_date":"Wed Sep 14 12:11:34 UTC 2022","build_hash":"5d1fe271e68cc3baecaa115732c7fb7bc5073ec7","build_hash_enterprise":"none"}
+{"timestamp":"2022-10-16 18:42:28.097 Z","level":"info","msg":"Team Edition Build","caller":"app/server.go:591","enterprise_build":false}
+{"timestamp":"2022-10-16 18:42:28.097 Z","level":"info","msg":"Printing current working","caller":"app/server.go:595","directory":"/mattermost"}
+{"timestamp":"2022-10-16 18:42:28.097 Z","level":"info","msg":"Loaded config","caller":"app/server.go:596","source":"file:///mattermost/config/config.json"}
+{"timestamp":"2022-10-16 18:42:28.106 Z","level":"info","msg":"Starting workers","caller":"jobs/workers.go:48"}
+{"timestamp":"2022-10-16 18:42:28.106 Z","level":"info","msg":"Starting schedulers.","caller":"jobs/schedulers.go:47"}
+{"timestamp":"2022-10-16 18:42:28.125 Z","level":"error","msg":"License key from https://mattermost.com required to unlock enterprise features.","caller":"app/license.go:152","error":"resource: License id: "}
+{"timestamp":"2022-10-16 18:42:28.257 Z","level":"info","msg":"Starting up plugins","caller":"app/plugin.go:212"}
+{"timestamp":"2022-10-16 18:42:28.257 Z","level":"info","msg":"Syncing plugins from the file store","caller":"app/plugin.go:286"}
+{"timestamp":"2022-10-16 18:42:30.708 Z","level":"info","msg":"Ensuring Feedbackbot exists","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.nps"}
+{"timestamp":"2022-10-16 18:42:31.642 Z","level":"info","msg":"failed to configure","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.apps","error":"plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-16 18:42:31.647 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.apps","wrapped_extras":"pathplugins/com.mattermost.apps/server/dist/plugin-linux-amd64pid44"}
+{"timestamp":"2022-10-16 18:42:31.670 Z","level":"error","msg":"Failed to install prepackaged plugin","caller":"app/plugin.go:950","path":"/mattermost/prepackaged_plugins/mattermost-plugin-apps-v1.1.0-linux-amd64.tar.gz","error":"Failed to install extracted prepackaged plugin /mattermost/prepackaged_plugins/mattermost-plugin-apps-v1.1.0-linux-amd64.tar.gz: installExtractedPlugin: Unable to restart plugin on upgrade., failed to load initial configuration: plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-16 18:42:32.869 Z","level":"info","msg":"got public IP address","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84","addr":"31.47.54.78"}
+{"timestamp":"2022-10-16 18:42:32.869 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:42:32.870 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:42:32.871 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:42:32.872 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:42:32.873 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:42:32.874 Z","level":"info","msg":"rtc: server is listening on udp 8443","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:42:37.657 Z","level":"info","msg":"connectDatabase","caller":"app/plugin_api.go:971","plugin_id":"focalboard","dbType":"postgres"}
+{"timestamp":"2022-10-16 18:42:37.891 Z","level":"info","msg":"Initialized notification backend","caller":"app/plugin_api.go:971","plugin_id":"focalboard","name":"notifyMentions"}
+{"timestamp":"2022-10-16 18:42:37.892 Z","level":"info","msg":"Initialized notification backend","caller":"app/plugin_api.go:971","plugin_id":"focalboard","name":"notifySubscriptions"}
+{"timestamp":"2022-10-16 18:42:37.893 Z","level":"info","msg":"Initialized notification backend","caller":"app/plugin_api.go:971","plugin_id":"focalboard","name":"notifyLogger"}
+{"timestamp":"2022-10-16 18:42:37.927 Z","level":"info","msg":"FocalBoard Server","caller":"app/plugin_api.go:971","plugin_id":"focalboard","version":"7.2.1","edition":"plugin","build_number":"2922758659","build_date":"\"Wed Aug 24 22:47:26 UTC 2022\"","build_hash":"74846cd39c90f3635de0ca531e0920e38f582097"}
+{"timestamp":"2022-10-16 18:42:37.928 Z","level":"info","msg":"Server.Start","caller":"app/plugin_api.go:971","plugin_id":"focalboard"}
+{"timestamp":"2022-10-16 18:42:38.178 Z","level":"info","msg":"failed to configure","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.apps","error":"plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-16 18:42:38.183 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.apps","wrapped_extras":"pathplugins/com.mattermost.apps/server/dist/plugin-linux-amd64pid85"}
+{"timestamp":"2022-10-16 18:42:38.183 Z","level":"error","msg":"Unable to activate plugin","caller":"app/plugin.go:165","plugin_id":"com.mattermost.apps","error":"failed to load initial configuration: plugin requires Mattermost Site URL to be set"}
+{"timestamp":"2022-10-16 18:42:38.201 Z","level":"error","msg":"Mail server connection test failed","caller":"app/server.go:1110","error":"unable to connect: unable to connect to the SMTP server: dial tcp 127.0.0.1:10025: connect: connection refused"}
+{"timestamp":"2022-10-16 18:42:38.205 Z","level":"info","msg":"Starting Server...","caller":"app/server.go:1128"}
+{"timestamp":"2022-10-16 18:42:38.205 Z","level":"info","msg":"Server is listening on [::]:8065","caller":"app/server.go:1201","address":"[::]:8065"}
+{"timestamp":"2022-10-16 18:43:50.540 Z","level":"info","msg":"Post.Message has size restrictions","caller":"sqlstore/post_store.go:2442","max_characters":16383,"max_bytes":65535}
+{"timestamp":"2022-10-16 18:44:55.917 Z","level":"info","msg":"Stopping Server...","caller":"app/server.go:872"}
+{"timestamp":"2022-10-16 18:44:55.917 Z","level":"info","msg":"stopping websocket hub connections","caller":"app/web_hub.go:113"}
+{"timestamp":"2022-10-16 18:44:55.960 Z","level":"info","msg":"Stopped workers","caller":"jobs/workers.go:90"}
+{"timestamp":"2022-10-16 18:44:55.960 Z","level":"info","msg":"Stopping schedulers.","caller":"jobs/schedulers.go:118"}
+{"timestamp":"2022-10-16 18:44:55.960 Z","level":"info","msg":"Schedulers stopped.","caller":"jobs/schedulers.go:50"}
+{"timestamp":"2022-10-16 18:44:55.960 Z","level":"info","msg":"Shutting down plugins","caller":"app/plugin.go:366"}
+{"timestamp":"2022-10-16 18:44:55.967 Z","level":"info","msg":"Server.Shutdown","caller":"app/plugin_api.go:971","plugin_id":"focalboard"}
+{"timestamp":"2022-10-16 18:44:55.968 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.nps","wrapped_extras":"pathplugins/com.mattermost.nps/server/dist/plugin-linux-amd64pid33"}
+{"timestamp":"2022-10-16 18:44:55.969 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.plugin-channel-export","wrapped_extras":"pathplugins/com.mattermost.plugin-channel-export/server/dist/plugin-linux-amd64pid22"}
+{"timestamp":"2022-10-16 18:44:55.969 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"playbooks","wrapped_extras":"pathplugins/playbooks/server/dist/plugin-linux-amd64pid64"}
+{"timestamp":"2022-10-16 18:44:55.970 Z","level":"info","msg":"rtc: server was shutdown","caller":"app/plugin_api.go:971","plugin_id":"com.mattermost.calls","origin":"main.(*logger).Info log.go:84"}
+{"timestamp":"2022-10-16 18:44:55.973 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"focalboard","wrapped_extras":"pathplugins/focalboard/server/dist/plugin-linux-amd64pid75"}
+{"timestamp":"2022-10-16 18:44:55.985 Z","level":"info","msg":"plugin process exited","caller":"plugin/hclog_adapter.go:61","plugin_id":"com.mattermost.calls","wrapped_extras":"pathplugins/com.mattermost.calls/server/dist/plugin-linux-amd64pid53"}
+{"timestamp":"2022-10-16 18:44:55.990 Z","level":"info","msg":"Server stopped","caller":"app/server.go:965"}
